@@ -1,6 +1,8 @@
 # Web3.js-Blockchain-Project-
 This project utilizes Web3.js to interact with the Ethereum blockchain With Code, Documents and Video Tutorial
 
+![WEb3 js Project](https://github.com/user-attachments/assets/7f262db8-2197-41ab-a2ef-8e479b019d65)
+
 ## Youtube: https://youtu.be/kWK-T4go0qo?si=y_j2yj3_MPX81c_e
 
 ## Abstract: 
